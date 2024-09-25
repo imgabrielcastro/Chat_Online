@@ -1,0 +1,10 @@
+Olá! Para iniciar o servidor juntamente com o código, basta seguir alguns passos simples.
+
+1 -> Abra o terminal na pasta "back-end" do projeto.
+2 -> Execute o seguinte comando para iniciar o servidor em modo de desenvolvimento:
+
+npm run dev
+
+Há também um vídeo mostrando como aplicar o comando e também mostrando um pouco do chat:
+
+https://www.loom.com/share/a598c06f78c3432f8b88f41451b2f0e8
